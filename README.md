@@ -1,5 +1,5 @@
-# Deep-Q-Networks-with-GridWorld
-Completion of  three Deep Q-Networks : Deep Q-Network (DQN), Double Deep Q-Network (DDQN), Double Dueling Deep Q-Network (D3QN)
+# Deep-Q-Networks-with Dual Memory Architecture-GridWorld
+Completion of  three Deep Q-Networks : Deep Q-Network (DQN), Double Deep Q-Network (DDQN), Double Dueling Deep Q-Network (D3QN) using Dual Memory Architecture
 
 ## Comparison of DQN and DQN with dual memory
 ![DQN_graph](https://user-images.githubusercontent.com/51056070/123504189-94c11200-d679-11eb-9cbf-dae60be2c175.png)
