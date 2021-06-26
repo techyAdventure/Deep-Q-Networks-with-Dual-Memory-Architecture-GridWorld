@@ -1,0 +1,1 @@
+{"algorithm": "DQN_dual_mem", "eps_start": 1.0, "eps_end": 0.01, "eps_decay": 0.999936, "episodes": 100000, "train_time": "Execution time: 2 hours : 45 minutes : 30 seconds", "memory 1 use": 937032, "memory 3 use": 929361}
